@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/ab_solid_custom_blue_inverse_holo">@drawable/com_android_contacts_ab_solid_custom_blue_inverse_holo</item>
+	<item name="drawable/aggregation_suggestions_bg_light_holo">@drawable/com_android_contacts_aggregation_suggestions_bg_light_holo</item>
+	<item name="drawable/btn_call_pressed">@drawable/com_android_contacts_btn_call_pressed</item>
+	<item name="drawable/dial_num_0_wht">@drawable/com_android_contacts_dial_num_0_wht</item>
+	<item name="drawable/dial_num_1_wht">@drawable/com_android_contacts_dial_num_1_wht</item>
+	<item name="drawable/dial_num_2_wht">@drawable/com_android_contacts_dial_num_2_wht</item>
+	<item name="drawable/dial_num_3_wht">@drawable/com_android_contacts_dial_num_3_wht</item>
+	<item name="drawable/dial_num_4_wht">@drawable/com_android_contacts_dial_num_4_wht</item>
+	<item name="drawable/dial_num_5_wht">@drawable/com_android_contacts_dial_num_5_wht</item>
+	<item name="drawable/dial_num_6_wht">@drawable/com_android_contacts_dial_num_6_wht</item>
+	<item name="drawable/dial_num_7_wht">@drawable/com_android_contacts_dial_num_7_wht</item>
+	<item name="drawable/dial_num_8_wht">@drawable/com_android_contacts_dial_num_8_wht</item>
+	<item name="drawable/dial_num_wht">@drawable/com_android_contacts_dial_num_wht</item>
+	<item name="drawable/dial_num_pound_wht">@drawable/com_android_contacts_dial_num_pound_wht</item>
+	<item name="drawable/dial_num_star_wht">@drawable/com_android_contacts_dial_num_star_wht</item>
+	<item name="drawable/list_pressed_holo">@drawable/com_android_contacts_list_pressed_holo</item>
+	<item name="drawable/list_pressed_holo_light">@drawable/com_android_contacts_list_pressed_holo_light</item>
+	<item name="drawable/list_section_divider_holo_custom">@drawable/com_android_contacts_list_section_divider_holo_custom</item>
+	<item name="drawable/tab_focused_bottom">@drawable/com_android_contacts_tab_focused_bottom</item>
+	<item name="drawable/tab_pressed_bottom">@drawable/com_android_contacts_tab_pressed_bottom</item>
+	<item name="drawable/tab_selected_bottom">@drawable/com_android_contacts_tab_selected_bottom</item>
+	<item name="drawable/tab_selected_focused_holo">@drawable/com_android_contacts_tab_selected_focused_holo</item>
+	<item name="drawable/tab_selected_holo">@drawable/com_android_contacts_tab_selected_holo</item>
+	<item name="drawable/tab_selected_pressed_holo">@drawable/com_android_contacts_tab_selected_pressed_holo</item>
+	<item name="drawable/tab_unselected_focused_holo">@drawable/com_android_contacts_tab_unselected_focused_holo</item>
+	<item name="drawable/tab_unselected_holo">@drawable/com_android_contacts_tab_unselected_holo</item>
+	<item name="drawable/tab_unselected_pressed_holo">@drawable/com_android_contacts_tab_unselected_pressed_holo</item>
+    <item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
+    <item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
+    <item name="color/quickcontact_tab_indicator">@color/people_app_theme_color</item>
+    <item name="color/call_log_voicemail_highlight_color">@color/holo_blue_light</item>
+    <item name="color/people_app_theme_color">@color/people_app_theme_color</item>
+	<item name="drawable/background_dial_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
+	
+</resource-redirections>
