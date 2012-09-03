@@ -37,4 +37,7 @@
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
+    <style name="Theme.TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Widget.ActionMode.Title">
+        <item name="android:textColor">#00000000</item>
+    </style>
 </resources>

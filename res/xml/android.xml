@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
+    <item name="style/TextAppearance.Holo.Widget.Switch">@style/Theme.TextAppearance.Holo.Widget.Switch</item>
 <item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
 <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
 	<item name="drawable/activity_picker_bg_activated">@drawable/frameworks_res_activity_picker_bg_activated</item>
