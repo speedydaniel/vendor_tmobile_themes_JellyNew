@@ -12,6 +12,7 @@
 	<item name="drawable/dial_num_6_wht">@drawable/com_android_contacts_dial_num_6_wht</item>
 	<item name="drawable/dial_num_7_wht">@drawable/com_android_contacts_dial_num_7_wht</item>
 	<item name="drawable/dial_num_8_wht">@drawable/com_android_contacts_dial_num_8_wht</item>
+	<item name="drawable/dial_num_9_wht">@drawable/com_android_contacts_dial_num_9_wht</item>
 	<item name="drawable/dial_num_wht">@drawable/com_android_contacts_dial_num_wht</item>
 	<item name="drawable/dial_num_pound_wht">@drawable/com_android_contacts_dial_num_pound_wht</item>
 	<item name="drawable/dial_num_star_wht">@drawable/com_android_contacts_dial_num_star_wht</item>
