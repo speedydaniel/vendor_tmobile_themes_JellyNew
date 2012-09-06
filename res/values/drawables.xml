@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<drawable name="status_bar_item_background_normal">@drawable/status_bar_item_background_normal</drawable>
+    <drawable name="status_bar_item_background_normal">@drawable/status_bar_item_background_normal</drawable>
     <item type="drawable" name="notification_number_text_color">#ffff0000</item>
     <item type="drawable" name="notification_item_background_color">#cc000000</item>
     <item type="drawable" name="notification_item_background_color_pressed">#ffbe0000</item>
     <item type="drawable" name="ticker_background_color">#ff000000</item>
     <drawable name="status_bar_background">@drawable/com_android_systemui_statusbar_background</drawable>
-    <item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
+    <item type="drawable" name="status_bar_recents_background_solid">#b3FF1C32</item>
     <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88400000</item>
     <item type="drawable" name="status_bar_notification_row_background_color">#cc000000</item>
-	<drawable name="notification_header_bg">@drawable/com_android_systemui_statpower_bg</drawable>
+    <drawable name="notification_header_bg">@drawable/com_android_systemui_statpower_bg</drawable>
     <item type="drawable" name="notification_tracking_bg">#d8400000</item>
     <item type="drawable" name="recents_callout_line">#99ff0000</item>
-    <item type="drawable" name="notification_item_background_legacy_color">#ff000000</item>
+    <item type="drawable" name="notification_item_background_legacy_color">#ff767676</item>
     <item type="drawable" name="nav_bar_bg">#cc000000</item>
-    <item type="drawable" name="notification_drawable_background_legacy_color">#ff8C8C8C</item>
-	<item type="drawable" name="empty">#00000000</item>
+    <item type="drawable" name="notification_drawable_background_legacy_color">#ff8c8c8c</item>
+    <item type="drawable" name="empty">#00000000</item>
 </resources>

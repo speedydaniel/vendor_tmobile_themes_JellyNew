@@ -3,7 +3,7 @@
     <style name="Black" parent="@android:style/Theme" />
     <style name="TextAppearance.StatusBar.Title" parent="@android:style/TextAppearance.StatusBar.Title">
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
-        <item name="android:textStyle">bold</item>
+        <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/TextAppearance.StatusBar.Title" />
@@ -55,7 +55,7 @@
         <item name="android:listViewStyle">@style/ListViewStyle</item>
         <item name="android:actionBarStyle">@style/ContactsActionBarStyle</item>
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
-	</style>
+    </style>
     <style name="CalendarActionBarStyle" parent="@android:style/Widget.Holo.ActionBar.Solid">
         <item name="android:displayOptions">showCustom</item>
     </style>
@@ -107,9 +107,8 @@
         <item name="android:actionBarStyle">@style/ContactsActionBarStyle</item>
         <item name="android:actionBarTabStyle">@style/ContactsActionBarTabView</item>
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
-	</style>
-    <style name="ContactsActionBarTabView" parent="@android:style/Widget.Holo.ActionBar.TabView">
-	</style>
+    </style>
+    <style name="ContactsActionBarTabView" parent="@android:style/Widget.Holo.ActionBar.TabView" />
     <style name="ContactPickerTheme" parent="@android:style/Theme.Holo.Dialog" />
     <style name="MmsHoloTheme" parent="@android:style/Theme.Holo" />
     <style name="FinskyTheme" parent="@android:style/Theme.Holo">
@@ -119,7 +118,7 @@
         <item name="android:actionMenuTextColor">@color/con_quickcontact_list_background</item>
     </style>
     <style name="FinskyActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
-		<item name="android:titleTextStyle">@style/FinskyActionBarTitleTextStyle</item>
+        <item name="android:titleTextStyle">@style/FinskyActionBarTitleTextStyle</item>
     </style>
     <style name="style/FinskyActionBarStyle" parent="@android:style/TextAppearance.Large">
         <item name="android:textSize">18.0sp</item>
@@ -129,7 +128,7 @@
         <item name="android:background">#00000000</item>
         <item name="android:button">@null</item>
         <item name="android:maxHeight">14.0dip</item>
-		<item name="android:minHeight">14.0dip</item>
+        <item name="android:minHeight">14.0dip</item>
         <item name="android:thumb">@null</item>
         <item name="android:isIndicator">true</item>
     </style>
@@ -203,7 +202,7 @@
         <item name="android:textColor">@color/holo_blue_light</item>
         <item name="android:layout_marginRight">8.0dip</item>
     </style>
-	<style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
+    <style name="TextAppearance.Holo.Widget.Switch" parent="@android:style/TextAppearance.Holo.Small">
         <item name="android:textColor">#00000000</item>
     </style>
 </resources>

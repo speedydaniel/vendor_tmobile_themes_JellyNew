@@ -35,7 +35,7 @@
     <color name="hint_foreground_light">#ff808080</color>
     <color name="highlighted_text_dark">#9983cc39</color>
     <color name="highlighted_text_light">#9983cc39</color>
-    <color name="link_text_dark">#ff6E6E6E</color>
+    <color name="link_text_dark">#ff6e6e6e</color>
     <color name="link_text_light">#ff0000ee</color>
     <color name="suggestion_highlight_text">#ff177bbd</color>
     <color name="lighter_gray">#ffdddddd</color>
@@ -78,7 +78,7 @@
     <color name="hint_foreground_holo_light">#ff808080</color>
     <color name="highlighted_text_holo_dark">#6633b5e5</color>
     <color name="highlighted_text_holo_light">#6633b5e5</color>
-    <color name="link_text_holo_dark">#ff6E6E6E</color>
+    <color name="link_text_holo_dark">#ff6e6e6e</color>
     <color name="link_text_holo_light">#ff0000ee</color>
     <color name="group_button_dialog_pressed_holo_dark">#46c5c1ff</color>
     <color name="group_button_dialog_focused_holo_dark">#2699cc00</color>
@@ -88,5 +88,5 @@
     <color name="legacy_selected_highlight">#fff17a0a</color>
     <color name="legacy_long_pressed_highlight">#ffffffff</color>
     <color name="config_defaultNotificationColor">#ffffffff</color>
-	<color name="con_quickcontact_list_background">#ff000000</color>
+    <color name="con_quickcontact_list_background">#ff000000</color>
 </resources>
