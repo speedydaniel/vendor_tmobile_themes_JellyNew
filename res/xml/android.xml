@@ -1105,6 +1105,7 @@
 	<item name="drawable/star_big_on">@drawable/frameworks_res_star_big_on</item>
 	<item name="drawable/star_off">@drawable/frameworks_res_star_off</item>
 	<item name="drawable/star_on">@drawable/frameworks_res_star_on</item>
+	<item name="drawable/cm_background_holo_dark">@drawable/frameworks_res_cm_background_holo_dark</item>
 	<item name="drawable/statusbar_background">@drawable/frameworks_res_statusbar_background</item>
 	<item name="drawable/status_bar_background">@drawable/frameworks_res_status_bar_background</item>
 	<item name="drawable/status_bar_header_background">@drawable/frameworks_res_status_bar_header_background</item>
